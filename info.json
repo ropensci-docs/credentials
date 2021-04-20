@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "721bef312cc7a6fc0b77280e14b040aedd660e6c",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-04-20 15:32:37",
+    "files": 2,
+    "merge": false,
+    "message": "Do not error if config file is unwritable\nFixes #13\n"
+  },
+  "remote": "https://github.com/r-lib/credentials.git",
+  "pkg": "credentials"
+}
