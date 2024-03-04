@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "883e07af9c49ae66cc100b262e736acb5f5c2cf7",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-09-06 13:52:03",
+    "files": 2,
+    "merge": false,
+    "message": "Default to credential-manager on Windows\n"
+  },
+  "repo": "https://github.com/r-lib/credentials",
+  "pkg": "credentials"
+}
