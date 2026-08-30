@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a656a37c4ba8ff9d59679c77153ddc887a1054ac",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2025-09-12T08:55:50Z",
+    "files": 2,
+    "merge": false,
+    "message": "Bump version\n"
+  },
+  "repo": "https://github.com/r-lib/credentials",
+  "pkg": "credentials",
+  "time": "2026-08-30T07:54:32Z"
+}
